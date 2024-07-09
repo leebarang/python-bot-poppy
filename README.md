@@ -11,5 +11,5 @@
  본 코드는 모두 참고용입니다.   
  system.py의 bot, token, api_key는 None값 처리되어있습니다. (사용 시, 수정 필요)
 ### 기타
- editor : @leebarang
+ editor : @leebarang   
  version : 0.0.1
